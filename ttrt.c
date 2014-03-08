@@ -3,6 +3,14 @@
 for(;;)
 {
 	call_some_function_with_paramater(12, 17);
+	if(function.callback == TRUE)
+	{
+		other_function(5);
+	}
+	else
+	{
+		other_function(6);
+	}
 
 }
 
