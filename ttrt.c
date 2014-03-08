@@ -5,7 +5,8 @@ for(;;)
 	call_some_function_with_paramater(12, 17);
 	if(function.callback == TRUE)
 	{
-		other_function(5);
+		other_function(1);
+		something_else(3);
 	}
 	else
 	{
