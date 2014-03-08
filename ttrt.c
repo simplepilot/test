@@ -11,6 +11,7 @@ for(;;)
 	else
 	{
 		other_function(6);
+		hopsasa(5);
 	}
 
 }
