@@ -12,6 +12,7 @@ for(;;)
 	{
 		other_function(6);
 		make_clean_exit();
+		trololo();
 	}
 
 }
