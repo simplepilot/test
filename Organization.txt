@@ -1,8 +1,9 @@
 Folders:
 -RTOS		FreeRtos folder
+-CMSIS		CMSIS folder
 -Drivers	MCU periphery drivers (uart, spi, i2c, ...)
--Config		COnfiguration files
+-Config		Configuration files
 -Devices	Drivers for devices (servo, PPM input, gyro,  Telemetry modem, ...)
--Functions		Reusable and common subrutines (IMU, PID, NMEA parser, ...)
+-Functions	Reusable and common subrutines (IMU, PID, NMEA parser, ...)
 -Low_level	Low level funsctions (Aircraft stabilization, Flight plan reading, ...)
 -High_level	High level functions (Flight plan execution, Navigation, ...)
