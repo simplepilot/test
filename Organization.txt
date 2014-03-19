@@ -4,6 +4,23 @@ Folders:
 -Drivers	MCU periphery drivers (uart, spi, i2c, ...)
 -Config		Configuration files
 -Devices	Drivers for devices (servo, PPM input, gyro,  Telemetry modem, ...)
--Functions	Reusable and common subrutines (IMU, PID, NMEA parser, ...)
+-Functions	Reusable and common subrutines (PID, NMEA parser, FatFS ...)
 -Low_level	Low level funsctions (Aircraft stabilization, Flight plan reading, ...)
 -High_level	High level functions (Flight plan execution, Navigation, ...)
+
+
+Device list:
+-PPM_IN
+-Servo_out
+-IMU
+-GPS
+-Altimeter
+-Compas
+-Battery
+-Outputs
+-GPIO
+-SD_card
+-Analog_in
+-USB_link
+-LED
+*Telemtry_modem
